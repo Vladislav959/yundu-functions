@@ -1,0 +1,24 @@
+{
+  "name": "yundu-functions",
+  "version": "1.0.0",
+  "description": "JS functions to create amazing mini-apps for Yundu",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vladislav959/yundu-functions.git"
+  },
+  "keywords": [
+    "javascript",
+    "functions",
+    "yundu"
+  ],
+  "author": "Vladislav Gubarev",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Vladislav959/yundu-functions/issues"
+  },
+  "homepage": "https://github.com/Vladislav959/yundu-functions#readme"
+}
