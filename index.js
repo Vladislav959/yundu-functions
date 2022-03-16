@@ -1,2 +1,3 @@
 const initApp = require('./lib/initApp');
-module.exports = {initApp}
+const getUser = require('./lib/getUser');
+module.exports = {initApp,getUser}

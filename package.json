@@ -1,6 +1,6 @@
 {
   "name": "yundu-functions",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "JS functions to create amazing mini-apps for Yundu",
   "main": "index.js",
   "scripts": {
